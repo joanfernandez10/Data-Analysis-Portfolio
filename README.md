@@ -11,6 +11,6 @@ Economist with a focus on data analysis and modeling.
 
 ## Projects
 1. SQL Sales Analysis
-2. Exploratory Data Analysis in Python
-3. Power BI Dashboard – Banking Data
+2. Academic replication in Python
+3. Power BI Dashboard
 4. Unemployment Data Analysis (Argentina)
