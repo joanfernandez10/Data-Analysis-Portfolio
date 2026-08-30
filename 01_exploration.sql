@@ -259,12 +259,46 @@ WHERE order_delivered_carrier_date IS NOT NULL
   AND order_delivered_customer_date < order_delivered_carrier_date
 ORDER BY order_delivered_customer_date;
 
--- ------------------------------------------------------------
--- 8. DATA QUALITY FINDING
--- ------------------------------------------------------------
+SELECT
+    order_status,
+    COUNT(*) AS total_orders,
+    COUNT(order_delivered_customer_date) AS delivered_date,
+    COUNT(order_estimated_delivery_date) AS estimated_date
+FROM orders
+GROUP BY order_status
+ORDER BY total_orders DESC;
 
--- 23 orders have a customer delivery date earlier than
--- the carrier delivery date.
--- These records represent approximately 0.023% of all orders.
--- They will not be deleted from the raw data.
--- Their impact will be considered when creating delivery metrics.
+SELECT
+    order_id,
+    order_status,
+    order_purchase_timestamp,
+    order_approved_at,
+    order_delivered_carrier_date,
+    order_delivered_customer_date,
+    order_estimated_delivery_date
+FROM orders
+WHERE order_status = 'delivered'
+  AND order_delivered_customer_date IS NULL;
+
+---
+
+-- 8. DATA QUALITY FINDINGS
+
+---
+
+-- 1. Inconsistent delivery timestamps
+-- 23 orders (0.023% of all orders) have a customer delivery
+-- date earlier than the carrier delivery date.
+-- These records will be retained in the raw dataset and
+-- excluded from delivery-time calculations where appropriate.
+
+-- 2. Missing delivery dates
+-- 8 orders are marked as "delivered" but have no customer
+-- delivery date.
+-- These records will be retained but excluded from metrics
+-- requiring a valid customer delivery timestamp.
+
+-- 3. Expected missing values
+-- Missing delivery dates for non-delivered orders are
+-- consistent with their order status and are therefore
+-- not considered data quality errors.
