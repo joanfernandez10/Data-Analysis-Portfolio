@@ -259,3 +259,12 @@ WHERE order_delivered_carrier_date IS NOT NULL
   AND order_delivered_customer_date < order_delivered_carrier_date
 ORDER BY order_delivered_customer_date;
 
+-- ------------------------------------------------------------
+-- 8. DATA QUALITY FINDING
+-- ------------------------------------------------------------
+
+-- 23 orders have a customer delivery date earlier than
+-- the carrier delivery date.
+-- These records represent approximately 0.023% of all orders.
+-- They will not be deleted from the raw data.
+-- Their impact will be considered when creating delivery metrics.
