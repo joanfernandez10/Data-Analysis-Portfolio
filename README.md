@@ -1,7 +1,7 @@
 
 # Joan Fernandez – Data Analyst Portfolio
 
-Puedes acceder a la versión en español [aquí](https://github.com/joanfernandez10/Analista-de-Datos-Portfolio/blob/main/LE%C3%89ME)
+Puedes acceder a la versión en español [aquí.](https://github.com/joanfernandez10/Analista-de-Datos-Portfolio/blob/main/LE%C3%89ME)
 ## About
 
 Economist with a focus on data analysis and modeling.
