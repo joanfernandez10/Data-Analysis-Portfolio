@@ -1,4 +1,3 @@
-```sql
 -- ============================================================
 -- OLIST E-COMMERCE ANALYSIS
 -- ============================================================
@@ -10,11 +9,9 @@
 -- What factors are associated with poor customer reviews
 -- on Olist?
 
-
 -- ============================================================
 -- 01 - DATA EXPLORATION
 -- ============================================================
-
 
 -- ------------------------------------------------------------
 -- 1. NUMBER OF RECORDS
@@ -113,7 +110,6 @@ FROM payments
 GROUP BY payment_type
 ORDER BY payments DESC;
 
-
 -- ------------------------------------------------------------
 -- 5. ORDERS OVER TIME
 -- ------------------------------------------------------------
@@ -125,7 +121,6 @@ FROM orders
 GROUP BY month
 ORDER BY month;
 
-
 -- ------------------------------------------------------------
 -- 6. PRICE DISTRIBUTION
 -- ------------------------------------------------------------
@@ -135,7 +130,6 @@ SELECT
     ROUND(AVG(price), 2) AS avg_price,
     MAX(price) AS max_price
 FROM items;
-
 
 -- ------------------------------------------------------------
 -- 7. PRODUCT CATEGORIES
@@ -150,7 +144,6 @@ GROUP BY p.product_category_name
 ORDER BY products DESC
 LIMIT 15;
 
-
 -- ------------------------------------------------------------
 -- 8. SELLER ACTIVITY
 -- ------------------------------------------------------------
@@ -162,4 +155,4 @@ FROM items
 GROUP BY seller_id
 ORDER BY items_sold DESC
 LIMIT 15;
-```
+
