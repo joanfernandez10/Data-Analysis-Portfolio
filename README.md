@@ -9,7 +9,7 @@ Economist with a focus on data analysis and modeling.
 ## Portfolio Projects
 
 ## Contacts
-* LinkedIn: [@joanfernandez](https://www.linkedin.com/in/joan-t-fernandez/)
+* LinkedIn: [@JoanFernández](https://www.linkedin.com/in/joan-t-fernandez/)
 * Email: [joanfernandez10@gmail.com](mailto:tuemail@gmail.com)
 
 
