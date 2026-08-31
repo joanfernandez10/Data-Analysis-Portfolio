@@ -1,5 +1,8 @@
 
 # Joan Fernandez – Data Analyst Portfolio
+
+Puedes acceder a la versión en español [aquí](#LEÉME)
+
 ## About
 
 Economist with a focus on data analysis and modeling.
