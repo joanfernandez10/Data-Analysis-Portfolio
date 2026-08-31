@@ -27,6 +27,11 @@ dd
 - [Contacts](##Contacts)
 
 ## Portfolio Projects
+ * SQL
+  * link1
+ * Power BI
+ * Python
+ * R
 
 ## Contacts
 * LinkedIn: [@JoanFernández](https://www.linkedin.com/in/joan-t-fernandez/)
