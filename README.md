@@ -10,13 +10,14 @@ Economist with a focus on data analysis and modeling.
 
 ## Contacts
 
-## Skills
+
+
+Skills
 - [SQL →](./01_exploration.sql/)
 - Python (pandas, numpy, matplotlib)
 - Power BI
 - Econometric models
-
-## Projects
+Projects
 1. SQL Sales Analysis
 2. Academic replication in Python
 3. Power BI Dashboard
