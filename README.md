@@ -1,4 +1,4 @@
-# Personal portfolio
+
 # Joan Fernandez – Data Analyst Portfolio
 
 Economist with a focus on data analysis and modeling.
