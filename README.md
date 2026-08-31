@@ -1,10 +1,14 @@
 
 # Joan Fernandez – Data Analyst Portfolio
-# About
+## About
 
 Economist with a focus on data analysis and modeling.
 
-# Table of Contents
+## Table of Contents
+
+## Portfolio Projects
+
+## Contacts
 
 ## Skills
 - [SQL →](./01_exploration.sql/)
