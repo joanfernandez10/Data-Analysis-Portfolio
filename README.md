@@ -4,10 +4,26 @@
 
 Economist with a focus on data analysis and modeling.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Table of Contents
 
 - [About](#About)
-- [Portfolio Projects](#Portfolio _Projects)
+- [Portfolio Projects](#Portfolio Projects)
 - [Contacts](##Contacts)
 
 ## Portfolio Projects
