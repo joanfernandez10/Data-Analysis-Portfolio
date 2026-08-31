@@ -27,7 +27,7 @@ dd
 - [About](#About)
 - [Portfolio Projects](#portfolio-projects)
    * SQL
-     * [OLIST E-COMMERCE ANALYSIS]([https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql])
+     * [OLIST E-COMMERCE ANALYSIS](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql)
      
      * link2
    * Power BI
