@@ -23,7 +23,7 @@ dd
 ## Table of Contents
 
 - [About](#About)
-- [Portfolio Projects](#Portfolio Projects)
+- [Portfolio Projects](#portfolio-projects)
 - [Contacts](##Contacts)
 
 ## Portfolio Projects
