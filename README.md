@@ -4,7 +4,7 @@
 Economist with a focus on data analysis and modeling.
 
 ## Skills
-- SQL
+- SQL [View project →](./olist-sql-analysis/)
 - Python (pandas, numpy, matplotlib)
 - Power BI
 - Econometric models
