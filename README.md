@@ -25,8 +25,11 @@ dd
 - [About](#About)
 - [Portfolio Projects](#portfolio-projects)
    * SQL
-    * link1
+     * link1
+     * link2
    * Power BI
+     * link1
+     * link2
    * Python
    * R
 - [Contacts](##Contacts)
