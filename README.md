@@ -2,16 +2,22 @@
 # Joan Fernandez – Data Analyst Portfolio
 
 Puedes acceder a la versión en español [aquí.](https://github.com/joanfernandez10/Analista-de-Datos-Portfolio/blob/main/LE%C3%89ME)
+
+
 ## About
 
-Economist with a focus on data analysis and modeling.
+I'm an Economist and Data Analyst with five years of professional experience working with data. My background in economics has given me a strong analytical foundation, while my professional experience has allowed me to develop practical skills in data analysis, reporting, and business intelligence.
 
+I have experience working with SQL, Python, Power BI, Excel, and data transformation tools. I enjoy working with data to identify patterns, uncover insights, and support better decision-making. I'm particularly interested in transforming raw data into clear and actionable information that can help businesses understand their performance and improve their processes.
 
+Throughout my career, I have developed strong analytical and problem-solving skills, combining quantitative analysis with a practical understanding of business needs. I am comfortable working both independently and as part of a team, and I continuously look for opportunities to improve my technical skills and learn new tools and techniques.
 
-fffgfg
+This portfolio showcases my data analysis projects, including SQL-based data exploration and analysis, data cleaning and quality assessment, and projects developed with Python and Power BI.
 
+My CV is available [here](#).
 
-dd
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
 
 ## Table of Contents
 
