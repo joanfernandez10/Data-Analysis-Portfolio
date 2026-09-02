@@ -32,7 +32,7 @@ dd
 
 ### Analyzing the Factors Associated with Poor Customer Reviews on Olist
 
-**Code:** [`Olist Brazilian E-Commerce Analysis.sql`]([https://github.com/](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql)
+**Code:** [`Olist Brazilian E-Commerce Analysis.sql`](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql)
 
 **Goal:** To identify the factors most strongly associated with poor customer reviews and determine which of them represent potential areas for improvement for Olist.
 
