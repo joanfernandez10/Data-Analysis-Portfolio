@@ -18,7 +18,7 @@ dd
 - [About](#About)
 - [Portfolio Projects](#portfolio-projects)
    * SQL
-     * [Analyzing the Factors Associated with Poor Customer Reviews on Olist](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql)
+     * [Analyzing the Factors Associated with Poor Customer Reviews on Olist](### Analyzing the Factors Associated with Poor Customer Reviews on Olist)
      
      * link2
    * Power BI
