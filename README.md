@@ -50,7 +50,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Results:** The analysis found that delivery time was the clearest actionable factor associated with customer satisfaction. Approximately 8.11% of deliveries occurred after the estimated delivery date, but around 60% of negative reviews were associated with deliveries that took longer than the overall average delivery time. Other factors, such as product price, geographical distance, payment installments, freight costs, product categories, and sellers, showed weaker or less actionable associations with review scores. The results suggest that reducing delivery times could be one of the most effective ways for Olist to improve customer experience and review scores.
 
-
+ 
 ## Contacts
 * LinkedIn: [@JoanFernández](https://www.linkedin.com/in/joan-t-fernandez/)
 * Email: [joanfernandez10@gmail.com](mailto:tuemail@gmail.com)
