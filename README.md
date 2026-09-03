@@ -31,7 +31,11 @@ This is a repository to showcase skills, share projects and track my progress in
      * link1
      * link2
    * Python
+     *link1
+     *link2
    * R
+     *link1
+     *link 2
 - [Education](#Education)
 - [Contacts](#Contacts)
 
