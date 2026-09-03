@@ -14,7 +14,7 @@ Throughout my career, I have developed strong analytical and problem-solving ski
 
 This portfolio showcases data analysis projects, including SQL-based data exploration and analysis, data cleaning and quality assessment, and projects developed with Python and Power BI.
 
-My CV is available [here.](#https://github.com/joanfernandez10/Data-Analysis-Portfolio/blob/main/Joan_Tadeo_Fernandez_CV.pdf)
+My CV is available [here.](https://github.com/joanfernandez10/Data-Analysis-Portfolio/blob/main/Joan_Tadeo_Fernandez_CV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
