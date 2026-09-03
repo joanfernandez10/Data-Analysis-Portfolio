@@ -32,8 +32,8 @@ This is a repository to showcase skills, share projects and track my progress in
      * link2
    * Python
    * R
-- [Education](##Education)
-- [Contacts](##Contacts)
+- [Education](#Education)
+- [Contacts](#Contacts)
 
 ## Portfolio Projects
 
