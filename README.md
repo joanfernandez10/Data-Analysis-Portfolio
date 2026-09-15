@@ -63,7 +63,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 University of CEMA, Argentina: Master's degree in Economics (pending thesis), 2026
 
-University of Buenos Aires, Argentina : Bachelor's Degree in Economics, 2023
+University of Buenos Aires, Argentina : Bachelor's degree in Economics, 2023
  
 ## Contacts
 * LinkedIn: [@JoanFernández](https://www.linkedin.com/in/joan-t-fernandez/)
