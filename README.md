@@ -33,8 +33,8 @@ This is a repository to showcase skills, share projects and track my progress in
      
      * link2
    * Python
-     * [Replicating Rodrik (2008): The Real Exchange Rate and Economic Growth](#Replicating-Rodrik-(2008):-The-Real-Exchange-Rate-and-Economic-Growth).
-     
+     * [Replicating Rodrik (2008): The Real Exchange Rate and Economic Growth](#replicating-rodrik-2008-the-real-exchange-rate-and-economic-growth)
+
      * link2
    * R
      * link1
