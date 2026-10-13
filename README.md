@@ -61,7 +61,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Replicating Rodrik (2008): The Real Exchange Rate and Economic Growth
 
-**Code:** `Replicating Rodrik (2008) Table 1.ipynb`
+**Code:** [`Replicating Rodrik (2008) Table 1.ipynb`](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/REPLICATION-Rodrik%20(2008)-Table%201.ipynb)
 
 **Goal:** To replicate Table 1 of Rodrik (2008) in order to learn the exact methodology used in this highly influential academic publication, and then apply it to a more recent dataset to analyze, with up-to-date empirical evidence, the relationship between the real exchange rate and economic growth.
 
