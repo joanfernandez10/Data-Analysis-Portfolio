@@ -59,6 +59,20 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Results:** The analysis found that delivery time was the clearest actionable factor associated with customer satisfaction. Approximately 8.11% of deliveries occurred after the estimated delivery date, but around 60% of negative reviews were associated with deliveries that took longer than the overall average delivery time. Other factors, such as product price, geographical distance, payment installments, freight costs, product categories, and sellers, showed weaker or less actionable associations with review scores. The results suggest that reducing delivery times could be one of the most effective ways for Olist to improve customer experience and review scores.
 
+### Replicating Rodrik (2008): The Real Exchange Rate and Economic Growth
+
+**Code:** `Replicating Rodrik (2008) Table 1.ipynb`
+
+**Goal:** To replicate Table 1 of Rodrik (2008) in order to learn the exact methodology used in this highly influential academic publication, and then apply it to a more recent dataset to analyze, with up-to-date empirical evidence, the relationship between the real exchange rate and economic growth.
+
+**Description:** The project replicated Table 1 of Rodrik (2008) using Penn World Table 6.2 data. It involved loading and exploring the data, cleaning and preprocessing it, building five-year averages of the real exchange rate and real GDP per capita, and computing initial income and annualized growth rates. A Balassa-Samuelson regression was then estimated to derive an undervaluation index (the residual between the actual and the income-predicted real exchange rate), and its distribution was visualized. Finally, six growth regressions with country and period fixed effects and heteroskedasticity-robust standard errors were run across different samples (all countries, developed, developing, pre-1980 and post-1980), and the results were formatted as a publication-style table.
+
+**Skills:** data cleaning, data transformation, panel data analysis, fixed-effects regression, econometric modeling, data visualization, replication of academic research.
+
+**Technology:** Python, Pandas, NumPy, Statsmodels, Matplotlib.
+
+**Results:** The analysis reproduced Table 1 of Rodrik (2008) almost exactly. Consistent with the original paper, the estimates show a positive relationship between currency undervaluation and economic growth, which is stronger for developing countries. Having validated the methodology, the next step is to apply it to a more recent dataset.
+
 ## Education
 
 University of CEMA, Argentina: Master's degree in Economics (pending thesis), 2026
