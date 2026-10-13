@@ -73,6 +73,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Results:** The analysis reproduced Table 1 of Rodrik (2008) almost exactly. Consistent with the original paper, the estimates show a positive relationship between currency undervaluation and economic growth, which is stronger for developing countries. Having validated the methodology, the next step is to apply it to a more recent dataset.
 
+You can consult Rodrik's original paper [here.](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/DANI%20RODRIK%20-%20The%20Real%20Exchange%20Rate%20and%20Economic%20Growth-%202008.pdf)
+
 ## Education
 
 University of CEMA, Argentina: Master's degree in Economics (pending thesis), 2026
