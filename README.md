@@ -45,6 +45,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
 ### Analyzing the Factors Associated with Poor Customer Reviews on Olist 
 
 **Code:** [`Olist Brazilian E-Commerce Analysis.sql`](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/OLIST%20E-COMMERCE%20ANALYSIS.sql)
