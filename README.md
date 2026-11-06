@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 You can consult Rodrik's original paper [here.](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/DANI%20RODRIK%20-%20The%20Real%20Exchange%20Rate%20and%20Economic%20Growth-%202008.pdf)
 
-# Long-Term Trends in Registered Employment in Argentina
+### Long-Term Trends in Registered Employment in Argentina
 
 **Code:** `Trabajo-registrado-Argentina.ipynb`
 
