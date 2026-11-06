@@ -77,6 +77,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 You can consult Rodrik's original paper [here.](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/DANI%20RODRIK%20-%20The%20Real%20Exchange%20Rate%20and%20Economic%20Growth-%202008.pdf)
 
+# Long-Term Trends in Registered Employment in Argentina
+
+**Code:** `Trabajo-registrado-Argentina.ipynb`
+
+**Goal:** To build an automated report that analyzes the long-term evolution of formal (registered) employment in Argentina, relating it to population and overall economic activity (GDP).
+
+**Description:** The project builds a fully reproducible report on registered employment in Argentina using official public data from the Ministry of Labor and INDEC. It involved loading and cleaning several Excel sources with inconsistent layouts (monthly, quarterly and annual series), unifying historical and updated population projections, aggregating monthly data into annual averages, and merging employment, population and GDP series. The analysis covers the total evolution of registered workers, their composition by occupational category (private, public, domestic service, self-employed, monotributo), employment as a share of total and working-age population (15–64), the sectoral and provincial distribution of employment, and the relationship between GDP and private registered employment through base-100 indices and employment-GDP elasticities. The report can be updated by simply replacing the source file names with the most recent releases.
+
+**Skills:** data cleaning, data wrangling, time series analysis, data merging, indicator construction, elasticity analysis, data visualization, process automation.
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Regular Expressions (re), Jupyter Notebook.
+
+**Data sources:** Ministry of Labor (registered employment statistics), INDEC (population projections and GDP supply and demand tables).
+
 ## Education
 
 University of CEMA, Argentina: Master's degree in Economics (pending thesis), 2026
