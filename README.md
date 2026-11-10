@@ -79,7 +79,7 @@ You can consult Rodrik's original paper [here.](https://github.com/joanfernandez
 
 ### Long-Term Trends in Registered Employment in Argentina
 
-**Code:** `Trabajo-registrado-Argentina.ipynb`
+**Code:** [`Registered-Employment-Argentina.ipynb`](https://github.com/joanfernandez10/Porfolio-Projects/blob/main/Registered-Employment-Argentina.ipynb)
 
 **Goal:** To build an automated report that analyzes the long-term evolution of formal (registered) employment in Argentina, relating it to population and overall economic activity (GDP).
 
